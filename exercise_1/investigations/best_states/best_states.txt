@@ -1,0 +1,18 @@
+State   Rating
+-----------------------------
+PR	0.6966755281768636
+MD	0.6875709492967039
+NH	0.6639125143490928
+VT	0.6633891513330149
+DC	0.6528926116427478
+VI	0.6486448708214994
+MT	0.6445540987729003
+NV	0.6423836689964119
+ID	0.6405500273378132
+NE	0.6390051092676735
+
+The above table shows the 10 best states based on the methodology I created for this analysis. My methodology combines
+scores from three different aspects of a measure: effectiveness, readmissions, and complications. I take these three ratings
+together because it is important to look at multiple aspects of a measure to get the full picture. The best state for hospitals is
+Puerto Rico, according to this methodology, but the 2-10th best states have ratings that are relatively close 
+to Puerto Rico.

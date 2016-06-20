@@ -1,0 +1,16 @@
+Correlation              Number of hospitals
+-----------------------------------------------------------------
+Both Above Average	793
+Both Below Average	127
+JAB Rating Above Average, Survey Ratings Below Average	2079
+JAB Rating Below Average, Survey Ratings Above Average	37
+Not Enough Information	30
+
+The above table gives a rough overview of how the ratings I created (JAB Ratings) compare to the ratings given in the survey
+table. The table shows that my ratings and patient ratings are not very well correlated, because 2,116 hospitals have different
+correlations and only 920 match correlations. A correlation match is defined as when both my ratings and patient ratings are
+above average, or when both are below average. Such an instance would imply that there is some consistency between the two
+ratings. However, if my rating is above average, for example, and the patient ratings are below average, then it seems like
+there is some disagreement between the two ratings. Since there are many more providers that my ratings and patient
+ratings don't agree on than ones we do agree on, I conclude that there is not much correlation between the two sets of 
+correlations.

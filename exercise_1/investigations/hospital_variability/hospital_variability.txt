@@ -1,0 +1,19 @@
+Measure_ID | Standard Deviation
+----------------------------------
+STK_4	0.2248914125993643
+OP_23	0.21772812480747625
+VTE_5	0.16715914436945517
+IMM_3_FAC_ADHPCT	0.16332721852718743
+VTE_1	0.1451758158887425
+OP_3b	0.1301803824018072
+OP_20	0.11804460062055647
+IMM_2	0.11440406321315871
+CAC_3	0.11241045047058569
+STK_8	0.1110600878028775
+
+
+
+The above table shows 10 measures with the highest standard deviation in scores between hospitals. A higher standard deviation means 
+that ratings are more highly dispersed / different at hospitals. Here I only analyze the effectiveness table, based on the assumption that 
+scores should be similarly varied in the readmission and complications tables. These scores are the same ones I used to identify
+the hospitals and states with the highest quality care.
