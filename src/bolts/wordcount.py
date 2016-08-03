@@ -3,23 +3,18 @@ from __future__ import absolute_import, print_function, unicode_literals
 from collections import Counter
 from streamparse.bolt import Bolt
 from redis import StrictRedis
-
+import psycopg2
 
 class WordCounter(Bolt):
 
     def initialize(self, conf, ctx):
         self.counts = Counter()
         self.redis = StrictRedis()
+	self.conn = psycopg2.connect(database="tcount", user="postgres", password="pass", host="localhost", port="5432")
+	self.cur = self.conn.cursor()
 
     def process(self, tup):
         word = tup.values[0]
-	#print word
-        # Write codes to increment the word count in Postgres
-        # Use psycopg to interact with Postgres
-        # Database name: Tcount 
-        # Table name: Tweetwordcount 
-        # you need to create both the database and the table in advance.
-        
 
         # Increment the local count
         self.counts[word] += 1
@@ -27,3 +22,18 @@ class WordCounter(Bolt):
 
         # Log the count - just to see the topology running
         self.log('%s: %d' % (word, self.counts[word]))
+	
+	# Check if the word already exists in the table
+	self.cur.execute("SELECT word from Tweetwordcount WHERE word='" + word + "'")
+	records = self.cur.fetchall()
+
+	# If the word doesn't exist, add it. Otherwise, update the count
+	if not records:
+		self.log("inserting")
+		self.cur.execute("INSERT INTO Tweetwordcount (word, count) VALUES ('" + word + "'," + str(self.counts[word])+ ')')
+		self.conn.commit()
+	else:
+		self.log("updating")
+		self.cur.execute("UPDATE Tweetwordcount SET count=" + str(self.counts[word]) + " WHERE word='" + word + "'")
+		self.conn.commit()
+
