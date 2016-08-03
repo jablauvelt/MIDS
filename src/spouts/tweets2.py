@@ -3,6 +3,7 @@ from __future__ import absolute_import, print_function, unicode_literals
 import itertools, time
 import tweepy, copy 
 import Queue, threading
+import simplejson
 
 from streamparse.spout import Spout
 
@@ -28,13 +29,43 @@ class TweetStreamListener(tweepy.StreamListener):
 
     def __init__(self, listener):
         self.listener = listener
+	self.startTime = time.time()
         super(self.__class__, self).__init__(listener.tweepy_api())
+
+    def on_data(self, data):
+        try:
+            self.elapsedTime = time.time() - self.startTime
+            if self.elapsedTime <= 30:
+                self.dataJson =simplejson.loads(data[:-1])
+                self.dataJsonText = self.dataJson["text"].lower()
+                self.count += 1
+		if self.count % 10 == 0:
+                    #print self.count
+                if "hello" in self.dataJsonText:
+                    print self.dataJsonText
+
+            else:
+                print "Count== ",self.count
+                print "End Time = %s"%(str(ctime()))
+                print "Elapsed Time = %s"%(str(self.elapsedTime))
+                return False
+
+            return True
+
+        except Exception, e:
+            print 'fail 1'
+            # Catch any unicode errors while printing to console
+            # and just ignore them to avoid breaking application.
+            pass
+
+
 
     def on_status(self, status):
         self.listener.queue().put(status.text, timeout = 0.01)
         return True
   
     def on_error(self, status_code):
+	print 'fail 2'
         return True # keep stream alive
   
     def on_limit(self, track):
@@ -57,6 +88,7 @@ class Tweets(Spout):
         self._tweepy_api = tweepy.API(auth)
 
         # Create the listener for twitter stream
+	print 'creating listener'
         listener = TweetStreamListener(self)
 
         # Create the stream and listen for english tweets

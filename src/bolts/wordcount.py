@@ -2,7 +2,7 @@ from __future__ import absolute_import, print_function, unicode_literals
 
 from collections import Counter
 from streamparse.bolt import Bolt
-
+from redis import StrictRedis
 
 
 class WordCounter(Bolt):
@@ -13,7 +13,7 @@ class WordCounter(Bolt):
 
     def process(self, tup):
         word = tup.values[0]
-	print word
+	#print word
         # Write codes to increment the word count in Postgres
         # Use psycopg to interact with Postgres
         # Database name: Tcount 
