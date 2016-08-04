@@ -1,0 +1,19 @@
+Hospital                Final_Rating
+----------------------------------------------------------------------
+HAMMOND HENRY HOSPITAL	0.8107876995355774
+MAHASKA  HEALTH PARTNERSHIP	0.7955587787380457
+ADVENTIST HEALTHCARE SHADY GROVE MEDICAL CENTER	0.7904719720547587
+GRANDE RONDE HOSPITAL	0.7772491419718026
+MEMORIAL HOSPITAL, THE	0.7725972573385796
+FRANCES MAHON DEACONESS HOSPITAL	0.772481725146199
+COPLEY HOSPITAL	0.7690806638986228
+SAINT AGNES HOSPITAL	0.7654327143656028
+DEFIANCE REGIONAL MEDICAL CENTER	0.7649345735185081
+WALDO COUNTY GENERAL HOSPITAL	0.7645544314447865
+
+
+The above table shows the 10 best hospitals based on the methodology I created for this analysis. My methodology combines
+scores from three different aspects of a measure: effectiveness, readmissions, and complications. I take these three ratings
+together because it is important to look at multiple aspects of a measure to get the full picture. The best hospital is
+Hammond Henry Hospital, according to this methodology, but the 2-10th best hospitals have ratings that are relatively close 
+to Hammond Henry.
