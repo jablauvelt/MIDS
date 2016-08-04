@@ -23,4 +23,5 @@ To run the application:
    c. To see a list of words with occurence counts in a certain range, run
 	"python histogram.py 5 10" where 5 and 10 represent the minimum
 	and maximum counts allowed (inclusive).
-
+   d. To see a histogram of the top 20 words, run "plot_top_x.py 20". The output
+      will be saved as "Plot.png".
