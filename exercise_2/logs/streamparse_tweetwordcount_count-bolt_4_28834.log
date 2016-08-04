@@ -1,0 +1,7 @@
+2016-08-03 19:03:16,689 - streamparse.storm.component - ERROR - Exception in WordCounter.run()
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/site-packages/streamparse/storm/component.py", line 487, in run
+    self.initialize(storm_conf, context)
+  File "bolts/wordcount.py", line 13, in initialize
+    self.conn = psycopg2.connect(database="tcount", user="postgres", password="pass", host="localhost", port="5432")
+NameError: global name 'psycopg2' is not defined

@@ -1,0 +1,12 @@
+2016-08-03 19:16:08,272 - streamparse.storm.component - ERROR - Exception in WordCounter.run()
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/site-packages/streamparse/storm/component.py", line 489, in run
+    self._run()
+  File "/usr/lib/python2.7/site-packages/streamparse/storm/bolt.py", line 219, in _run
+    self.process(tup)
+  File "bolts/wordcount.py", line 28, in process
+    self.cur.execute("UPDATE Twwetwordcount SET count=%s WHERE word='%s'", (500, 'the'))
+ProgrammingError: syntax error at or near "the"
+LINE 1: UPDATE Twwetwordcount SET count=500 WHERE word='E'the''
+                                                          ^
+

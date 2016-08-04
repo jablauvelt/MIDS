@@ -1,0 +1,76 @@
+2016-08-03 16:12:54,296 - streamparse.stdout - INFO - creating listener-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2016-08-03 16:12:54,315 - streamparse.storm.component - ERROR - Exception in Tweets.run()
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/site-packages/streamparse/storm/component.py", line 489, in run
+    self._run()
+  File "/usr/lib/python2.7/site-packages/streamparse/storm/spout.py", line 150, in _run
+    self.next_tuple()
+  File "spouts/tweets.py", line 108, in next_tuple
+    self.emit([tweet])
+  File "/usr/lib/python2.7/site-packages/streamparse/storm/spout.py", line 99, in emit
+    need_task_ids=need_task_ids)
+  File "/usr/lib/python2.7/site-packages/streamparse/storm/component.py", line 463, in emit
+    self.send_message(msg)
+  File "/usr/lib/python2.7/site-packages/streamparse/storm/component.py", line 363, in send_message
+    wrapped_msg = "{}\nend\n".format(json.dumps(message))
+  File "/usr/lib64/python2.7/site-packages/simplejson/__init__.py", line 380, in dumps
+    return _default_encoder.encode(obj)
+  File "/usr/lib64/python2.7/site-packages/simplejson/encoder.py", line 275, in encode
+    chunks = self.iterencode(o, _one_shot=True)
+  File "/usr/lib64/python2.7/site-packages/simplejson/encoder.py", line 357, in iterencode
+    return _iterencode(o, 0)
+  File "/usr/lib64/python2.7/site-packages/simplejson/encoder.py", line 252, in default
+    raise TypeError(repr(o) + " is not JSON serializable")
+TypeError: <tweepy.streaming.Stream object at 0x2d03550> is not JSON serializable
+2016-08-03 16:12:54,317 - requests_oauthlib.oauth1_auth - DEBUG - Signing request <PreparedRequest [POST]> using client <Client nonce=None, signature_method=HMAC-SHA1, realm=None, encoding=utf-8, timestamp=None, resource_owner_secret=****, decoding=None, verifier=None, signature_type=AUTH_HEADER, rsa_key=None, resource_owner_key=3807035249-xktzGi7k8UHo6yw6bJny44DGBV7Pcw3dFPLGUQ3, client_secret=****, callback_uri=None, client_key=w5NwGVgNGlNbfMEgcPVdcp3z8>
+2016-08-03 16:12:54,332 - requests_oauthlib.oauth1_auth - DEBUG - Including body in call to sign: True
+2016-08-03 16:12:54,333 - oauthlib.oauth1.rfc5849 - DEBUG - Collected params: [(u'delimited', u'length'), (u'oauth_nonce', u'150262320651541628581470240774'), (u'oauth_timestamp', u'1470240774'), (u'oauth_consumer_key', u'w5NwGVgNGlNbfMEgcPVdcp3z8'), (u'oauth_signature_method', u'HMAC-SHA1'), (u'oauth_version', u'1.0'), (u'oauth_token', u'3807035249-xktzGi7k8UHo6yw6bJny44DGBV7Pcw3dFPLGUQ3'), (u'track', u'a,the,i,you,u'), (u'language', u'en')]
+2016-08-03 16:12:54,333 - oauthlib.oauth1.rfc5849 - DEBUG - Normalized params: delimited=length&language=en&oauth_consumer_key=w5NwGVgNGlNbfMEgcPVdcp3z8&oauth_nonce=150262320651541628581470240774&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1470240774&oauth_token=3807035249-xktzGi7k8UHo6yw6bJny44DGBV7Pcw3dFPLGUQ3&oauth_version=1.0&track=a%2Cthe%2Ci%2Cyou%2Cu
+2016-08-03 16:12:54,333 - oauthlib.oauth1.rfc5849 - DEBUG - Normalized URI: https://stream.twitter.com/1.1/statuses/filter.json
+2016-08-03 16:12:54,333 - oauthlib.oauth1.rfc5849 - DEBUG - Base signing string: POST&https%3A%2F%2Fstream.twitter.com%2F1.1%2Fstatuses%2Ffilter.json&delimited%3Dlength%26language%3Den%26oauth_consumer_key%3Dw5NwGVgNGlNbfMEgcPVdcp3z8%26oauth_nonce%3D150262320651541628581470240774%26oauth_signature_method%3DHMAC-SHA1%26oauth_timestamp%3D1470240774%26oauth_token%3D3807035249-xktzGi7k8UHo6yw6bJny44DGBV7Pcw3dFPLGUQ3%26oauth_version%3D1.0%26track%3Da%252Cthe%252Ci%252Cyou%252Cu
+2016-08-03 16:12:54,334 - oauthlib.oauth1.rfc5849 - DEBUG - Signature: mHWQy0yvT4Tll4VK9aCs/JAY/Hk=
+2016-08-03 16:12:54,334 - requests_oauthlib.oauth1_auth - DEBUG - Updated url: https://stream.twitter.com/1.1/statuses/filter.json?delimited=length
+2016-08-03 16:12:54,334 - requests_oauthlib.oauth1_auth - DEBUG - Updated headers: {u'Content-Length': u'39', u'Content-Type': u'application/x-www-form-urlencoded', u'Authorization': u'OAuth oauth_nonce="150262320651541628581470240774", oauth_timestamp="1470240774", oauth_version="1.0", oauth_signature_method="HMAC-SHA1", oauth_consumer_key="w5NwGVgNGlNbfMEgcPVdcp3z8", oauth_token="3807035249-xktzGi7k8UHo6yw6bJny44DGBV7Pcw3dFPLGUQ3", oauth_signature="mHWQy0yvT4Tll4VK9aCs%2FJAY%2FHk%3D"'}
+2016-08-03 16:12:54,334 - requests_oauthlib.oauth1_auth - DEBUG - Updated body: u'track=a%2Cthe%2Ci%2Cyou%2Cu&language=en'
+2016-08-03 16:12:54,335 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTPS connection (1): stream.twitter.com
+2016-08-03 16:12:54,569 - requests.packages.urllib3.connectionpool - DEBUG - "POST /1.1/statuses/filter.json?delimited=length HTTP/1.1" 420 36
+2016-08-03 16:12:54,570 - streamparse.stdout - INFO - fail 2
+2016-08-03 16:13:54,621 - requests_oauthlib.oauth1_auth - DEBUG - Signing request <PreparedRequest [POST]> using client <Client nonce=None, signature_method=HMAC-SHA1, realm=None, encoding=utf-8, timestamp=None, resource_owner_secret=****, decoding=None, verifier=None, signature_type=AUTH_HEADER, rsa_key=None, resource_owner_key=3807035249-xktzGi7k8UHo6yw6bJny44DGBV7Pcw3dFPLGUQ3, client_secret=****, callback_uri=None, client_key=w5NwGVgNGlNbfMEgcPVdcp3z8>
+2016-08-03 16:13:54,621 - requests_oauthlib.oauth1_auth - DEBUG - Including body in call to sign: True
+2016-08-03 16:13:54,622 - oauthlib.oauth1.rfc5849 - DEBUG - Collected params: [(u'delimited', u'length'), (u'oauth_nonce', u'66964936811035555331470240834'), (u'oauth_timestamp', u'1470240834'), (u'oauth_consumer_key', u'w5NwGVgNGlNbfMEgcPVdcp3z8'), (u'oauth_signature_method', u'HMAC-SHA1'), (u'oauth_version', u'1.0'), (u'oauth_token', u'3807035249-xktzGi7k8UHo6yw6bJny44DGBV7Pcw3dFPLGUQ3'), (u'track', u'a,the,i,you,u'), (u'language', u'en')]
+2016-08-03 16:13:54,623 - oauthlib.oauth1.rfc5849 - DEBUG - Normalized params: delimited=length&language=en&oauth_consumer_key=w5NwGVgNGlNbfMEgcPVdcp3z8&oauth_nonce=66964936811035555331470240834&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1470240834&oauth_token=3807035249-xktzGi7k8UHo6yw6bJny44DGBV7Pcw3dFPLGUQ3&oauth_version=1.0&track=a%2Cthe%2Ci%2Cyou%2Cu
+2016-08-03 16:13:54,623 - oauthlib.oauth1.rfc5849 - DEBUG - Normalized URI: https://stream.twitter.com/1.1/statuses/filter.json
+2016-08-03 16:13:54,623 - oauthlib.oauth1.rfc5849 - DEBUG - Base signing string: POST&https%3A%2F%2Fstream.twitter.com%2F1.1%2Fstatuses%2Ffilter.json&delimited%3Dlength%26language%3Den%26oauth_consumer_key%3Dw5NwGVgNGlNbfMEgcPVdcp3z8%26oauth_nonce%3D66964936811035555331470240834%26oauth_signature_method%3DHMAC-SHA1%26oauth_timestamp%3D1470240834%26oauth_token%3D3807035249-xktzGi7k8UHo6yw6bJny44DGBV7Pcw3dFPLGUQ3%26oauth_version%3D1.0%26track%3Da%252Cthe%252Ci%252Cyou%252Cu
+2016-08-03 16:13:54,623 - oauthlib.oauth1.rfc5849 - DEBUG - Signature: b0gVidTm039zoM0OAVs/iiCr28c=
+2016-08-03 16:13:54,623 - requests_oauthlib.oauth1_auth - DEBUG - Updated url: https://stream.twitter.com/1.1/statuses/filter.json?delimited=length
+2016-08-03 16:13:54,624 - requests_oauthlib.oauth1_auth - DEBUG - Updated headers: {u'Content-Length': u'39', u'Content-Type': u'application/x-www-form-urlencoded', u'Authorization': u'OAuth oauth_nonce="66964936811035555331470240834", oauth_timestamp="1470240834", oauth_version="1.0", oauth_signature_method="HMAC-SHA1", oauth_consumer_key="w5NwGVgNGlNbfMEgcPVdcp3z8", oauth_token="3807035249-xktzGi7k8UHo6yw6bJny44DGBV7Pcw3dFPLGUQ3", oauth_signature="b0gVidTm039zoM0OAVs%2FiiCr28c%3D"'}
+2016-08-03 16:13:54,624 - requests_oauthlib.oauth1_auth - DEBUG - Updated body: u'track=a%2Cthe%2Ci%2Cyou%2Cu&language=en'
+2016-08-03 16:13:54,624 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTPS connection (2): stream.twitter.com
+2016-08-03 16:13:54,730 - requests.packages.urllib3.connectionpool - DEBUG - "POST /1.1/statuses/filter.json?delimited=length HTTP/1.1" 420 36
+2016-08-03 16:13:54,732 - streamparse.stdout - INFO - fail 2
+2016-08-03 16:15:54,840 - requests_oauthlib.oauth1_auth - DEBUG - Signing request <PreparedRequest [POST]> using client <Client nonce=None, signature_method=HMAC-SHA1, realm=None, encoding=utf-8, timestamp=None, resource_owner_secret=****, decoding=None, verifier=None, signature_type=AUTH_HEADER, rsa_key=None, resource_owner_key=3807035249-xktzGi7k8UHo6yw6bJny44DGBV7Pcw3dFPLGUQ3, client_secret=****, callback_uri=None, client_key=w5NwGVgNGlNbfMEgcPVdcp3z8>
+2016-08-03 16:15:54,840 - requests_oauthlib.oauth1_auth - DEBUG - Including body in call to sign: True
+2016-08-03 16:15:54,841 - oauthlib.oauth1.rfc5849 - DEBUG - Collected params: [(u'delimited', u'length'), (u'oauth_nonce', u'152134576392791035321470240954'), (u'oauth_timestamp', u'1470240954'), (u'oauth_consumer_key', u'w5NwGVgNGlNbfMEgcPVdcp3z8'), (u'oauth_signature_method', u'HMAC-SHA1'), (u'oauth_version', u'1.0'), (u'oauth_token', u'3807035249-xktzGi7k8UHo6yw6bJny44DGBV7Pcw3dFPLGUQ3'), (u'track', u'a,the,i,you,u'), (u'language', u'en')]
+2016-08-03 16:15:54,841 - oauthlib.oauth1.rfc5849 - DEBUG - Normalized params: delimited=length&language=en&oauth_consumer_key=w5NwGVgNGlNbfMEgcPVdcp3z8&oauth_nonce=152134576392791035321470240954&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1470240954&oauth_token=3807035249-xktzGi7k8UHo6yw6bJny44DGBV7Pcw3dFPLGUQ3&oauth_version=1.0&track=a%2Cthe%2Ci%2Cyou%2Cu
+2016-08-03 16:15:54,841 - oauthlib.oauth1.rfc5849 - DEBUG - Normalized URI: https://stream.twitter.com/1.1/statuses/filter.json
+2016-08-03 16:15:54,842 - oauthlib.oauth1.rfc5849 - DEBUG - Base signing string: POST&https%3A%2F%2Fstream.twitter.com%2F1.1%2Fstatuses%2Ffilter.json&delimited%3Dlength%26language%3Den%26oauth_consumer_key%3Dw5NwGVgNGlNbfMEgcPVdcp3z8%26oauth_nonce%3D152134576392791035321470240954%26oauth_signature_method%3DHMAC-SHA1%26oauth_timestamp%3D1470240954%26oauth_token%3D3807035249-xktzGi7k8UHo6yw6bJny44DGBV7Pcw3dFPLGUQ3%26oauth_version%3D1.0%26track%3Da%252Cthe%252Ci%252Cyou%252Cu
+2016-08-03 16:15:54,842 - oauthlib.oauth1.rfc5849 - DEBUG - Signature: ciTaphYwJtlyGmj0K+pJcKDh2GM=
+2016-08-03 16:15:54,844 - requests_oauthlib.oauth1_auth - DEBUG - Updated url: https://stream.twitter.com/1.1/statuses/filter.json?delimited=length
+2016-08-03 16:15:54,844 - requests_oauthlib.oauth1_auth - DEBUG - Updated headers: {u'Content-Length': u'39', u'Content-Type': u'application/x-www-form-urlencoded', u'Authorization': u'OAuth oauth_nonce="152134576392791035321470240954", oauth_timestamp="1470240954", oauth_version="1.0", oauth_signature_method="HMAC-SHA1", oauth_consumer_key="w5NwGVgNGlNbfMEgcPVdcp3z8", oauth_token="3807035249-xktzGi7k8UHo6yw6bJny44DGBV7Pcw3dFPLGUQ3", oauth_signature="ciTaphYwJtlyGmj0K%2BpJcKDh2GM%3D"'}
+2016-08-03 16:15:54,845 - requests_oauthlib.oauth1_auth - DEBUG - Updated body: u'track=a%2Cthe%2Ci%2Cyou%2Cu&language=en'
+2016-08-03 16:15:54,845 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTPS connection (3): stream.twitter.com
+2016-08-03 16:15:54,969 - requests.packages.urllib3.connectionpool - DEBUG - "POST /1.1/statuses/filter.json?delimited=length HTTP/1.1" 420 36
+2016-08-03 16:15:54,971 - streamparse.stdout - INFO - fail 2
+2016-08-03 16:19:55,062 - requests_oauthlib.oauth1_auth - DEBUG - Signing request <PreparedRequest [POST]> using client <Client nonce=None, signature_method=HMAC-SHA1, realm=None, encoding=utf-8, timestamp=None, resource_owner_secret=****, decoding=None, verifier=None, signature_type=AUTH_HEADER, rsa_key=None, resource_owner_key=3807035249-xktzGi7k8UHo6yw6bJny44DGBV7Pcw3dFPLGUQ3, client_secret=****, callback_uri=None, client_key=w5NwGVgNGlNbfMEgcPVdcp3z8>
+2016-08-03 16:19:55,062 - requests_oauthlib.oauth1_auth - DEBUG - Including body in call to sign: True
+2016-08-03 16:19:55,063 - oauthlib.oauth1.rfc5849 - DEBUG - Collected params: [(u'delimited', u'length'), (u'oauth_nonce', u'76910553421323965771470241195'), (u'oauth_timestamp', u'1470241195'), (u'oauth_consumer_key', u'w5NwGVgNGlNbfMEgcPVdcp3z8'), (u'oauth_signature_method', u'HMAC-SHA1'), (u'oauth_version', u'1.0'), (u'oauth_token', u'3807035249-xktzGi7k8UHo6yw6bJny44DGBV7Pcw3dFPLGUQ3'), (u'track', u'a,the,i,you,u'), (u'language', u'en')]
+2016-08-03 16:19:55,063 - oauthlib.oauth1.rfc5849 - DEBUG - Normalized params: delimited=length&language=en&oauth_consumer_key=w5NwGVgNGlNbfMEgcPVdcp3z8&oauth_nonce=76910553421323965771470241195&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1470241195&oauth_token=3807035249-xktzGi7k8UHo6yw6bJny44DGBV7Pcw3dFPLGUQ3&oauth_version=1.0&track=a%2Cthe%2Ci%2Cyou%2Cu
+2016-08-03 16:19:55,063 - oauthlib.oauth1.rfc5849 - DEBUG - Normalized URI: https://stream.twitter.com/1.1/statuses/filter.json
+2016-08-03 16:19:55,063 - oauthlib.oauth1.rfc5849 - DEBUG - Base signing string: POST&https%3A%2F%2Fstream.twitter.com%2F1.1%2Fstatuses%2Ffilter.json&delimited%3Dlength%26language%3Den%26oauth_consumer_key%3Dw5NwGVgNGlNbfMEgcPVdcp3z8%26oauth_nonce%3D76910553421323965771470241195%26oauth_signature_method%3DHMAC-SHA1%26oauth_timestamp%3D1470241195%26oauth_token%3D3807035249-xktzGi7k8UHo6yw6bJny44DGBV7Pcw3dFPLGUQ3%26oauth_version%3D1.0%26track%3Da%252Cthe%252Ci%252Cyou%252Cu
+2016-08-03 16:19:55,063 - oauthlib.oauth1.rfc5849 - DEBUG - Signature: GGSepknP4cieygTNIvTobHkeCkE=
+2016-08-03 16:19:55,064 - requests_oauthlib.oauth1_auth - DEBUG - Updated url: https://stream.twitter.com/1.1/statuses/filter.json?delimited=length
+2016-08-03 16:19:55,064 - requests_oauthlib.oauth1_auth - DEBUG - Updated headers: {u'Content-Length': u'39', u'Content-Type': u'application/x-www-form-urlencoded', u'Authorization': u'OAuth oauth_nonce="76910553421323965771470241195", oauth_timestamp="1470241195", oauth_version="1.0", oauth_signature_method="HMAC-SHA1", oauth_consumer_key="w5NwGVgNGlNbfMEgcPVdcp3z8", oauth_token="3807035249-xktzGi7k8UHo6yw6bJny44DGBV7Pcw3dFPLGUQ3", oauth_signature="GGSepknP4cieygTNIvTobHkeCkE%3D"'}
+2016-08-03 16:19:55,064 - requests_oauthlib.oauth1_auth - DEBUG - Updated body: u'track=a%2Cthe%2Ci%2Cyou%2Cu&language=en'
+2016-08-03 16:19:55,065 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTPS connection (4): stream.twitter.com
+2016-08-03 16:19:55,161 - requests.packages.urllib3.connectionpool - DEBUG - "POST /1.1/statuses/filter.json?delimited=length HTTP/1.1" 420 36
+2016-08-03 16:19:55,163 - streamparse.stdout - INFO - fail 2
