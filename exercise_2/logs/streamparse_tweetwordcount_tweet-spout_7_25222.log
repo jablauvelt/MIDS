@@ -1,0 +1,910 @@
+2016-08-03 15:02:03,835 - streamparse.stdout - INFO - test
+2016-08-03 15:02:03,835 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:03,836 - streamparse.stdout - INFO - test
+2016-08-03 15:02:03,836 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:03,836 - streamparse.stdout - INFO - test
+2016-08-03 15:02:03,836 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:03,837 - streamparse.stdout - INFO - test
+2016-08-03 15:02:03,837 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:03,837 - streamparse.stdout - INFO - test
+2016-08-03 15:02:03,837 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:03,839 - streamparse.stdout - INFO - test
+2016-08-03 15:02:03,839 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:03,840 - streamparse.stdout - INFO - test
+2016-08-03 15:02:03,840 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:03,843 - streamparse.stdout - INFO - test
+2016-08-03 15:02:03,843 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:03,843 - streamparse.stdout - INFO - test
+2016-08-03 15:02:03,844 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:03,844 - streamparse.stdout - INFO - test
+2016-08-03 15:02:03,844 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:03,844 - streamparse.stdout - INFO - test
+2016-08-03 15:02:03,844 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:03,845 - streamparse.stdout - INFO - test
+2016-08-03 15:02:03,845 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:03,856 - streamparse.stdout - INFO - test
+2016-08-03 15:02:03,856 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:03,856 - streamparse.stdout - INFO - test
+2016-08-03 15:02:03,856 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:03,857 - streamparse.stdout - INFO - test
+2016-08-03 15:02:03,857 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:03,857 - streamparse.stdout - INFO - test
+2016-08-03 15:02:03,857 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:03,858 - streamparse.stdout - INFO - test
+2016-08-03 15:02:03,858 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:03,859 - streamparse.stdout - INFO - test
+2016-08-03 15:02:03,859 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:03,859 - streamparse.stdout - INFO - test
+2016-08-03 15:02:03,861 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:03,861 - streamparse.stdout - INFO - test
+2016-08-03 15:02:03,862 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:03,871 - streamparse.stdout - INFO - test
+2016-08-03 15:02:03,871 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:03,871 - streamparse.stdout - INFO - test
+2016-08-03 15:02:03,871 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:03,872 - streamparse.stdout - INFO - test
+2016-08-03 15:02:03,872 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:03,873 - streamparse.stdout - INFO - test
+2016-08-03 15:02:03,873 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:03,873 - streamparse.stdout - INFO - test
+2016-08-03 15:02:03,873 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:03,874 - streamparse.stdout - INFO - test
+2016-08-03 15:02:03,874 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:03,874 - streamparse.stdout - INFO - test
+2016-08-03 15:02:03,874 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:03,875 - streamparse.stdout - INFO - test
+2016-08-03 15:02:03,875 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:03,876 - streamparse.stdout - INFO - test
+2016-08-03 15:02:03,876 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:03,876 - streamparse.stdout - INFO - test
+2016-08-03 15:02:03,876 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:03,877 - streamparse.stdout - INFO - test
+2016-08-03 15:02:03,877 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:03,878 - streamparse.stdout - INFO - test
+2016-08-03 15:02:03,878 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:03,893 - streamparse.stdout - INFO - test
+2016-08-03 15:02:03,893 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:03,893 - streamparse.stdout - INFO - test
+2016-08-03 15:02:03,893 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:03,894 - streamparse.stdout - INFO - test
+2016-08-03 15:02:03,894 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:03,904 - streamparse.stdout - INFO - test
+2016-08-03 15:02:03,904 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:03,904 - streamparse.stdout - INFO - test
+2016-08-03 15:02:03,904 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:03,904 - streamparse.stdout - INFO - test
+2016-08-03 15:02:03,905 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:03,905 - streamparse.stdout - INFO - test
+2016-08-03 15:02:03,905 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:04,809 - streamparse.stdout - INFO - test
+2016-08-03 15:02:04,809 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:04,810 - streamparse.stdout - INFO - test
+2016-08-03 15:02:04,810 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:04,814 - streamparse.stdout - INFO - test
+2016-08-03 15:02:04,814 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:04,814 - streamparse.stdout - INFO - test
+2016-08-03 15:02:04,814 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:04,816 - streamparse.stdout - INFO - test
+2016-08-03 15:02:04,816 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:04,817 - streamparse.stdout - INFO - test
+2016-08-03 15:02:04,817 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:04,817 - streamparse.stdout - INFO - test
+2016-08-03 15:02:04,817 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:04,827 - streamparse.stdout - INFO - test
+2016-08-03 15:02:04,827 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:04,827 - streamparse.stdout - INFO - test
+2016-08-03 15:02:04,827 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:04,828 - streamparse.stdout - INFO - test
+2016-08-03 15:02:04,828 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:04,831 - streamparse.stdout - INFO - test
+2016-08-03 15:02:04,831 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:04,831 - streamparse.stdout - INFO - test
+2016-08-03 15:02:04,831 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:04,832 - streamparse.stdout - INFO - test
+2016-08-03 15:02:04,832 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:04,832 - streamparse.stdout - INFO - test
+2016-08-03 15:02:04,832 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:04,832 - streamparse.stdout - INFO - test
+2016-08-03 15:02:04,833 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:04,833 - streamparse.stdout - INFO - test
+2016-08-03 15:02:04,833 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:04,836 - streamparse.stdout - INFO - test
+2016-08-03 15:02:04,837 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:04,837 - streamparse.stdout - INFO - test
+2016-08-03 15:02:04,837 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:04,837 - streamparse.stdout - INFO - test
+2016-08-03 15:02:04,837 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:04,838 - streamparse.stdout - INFO - test
+2016-08-03 15:02:04,838 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:04,838 - streamparse.stdout - INFO - test
+2016-08-03 15:02:04,838 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:04,854 - streamparse.stdout - INFO - test
+2016-08-03 15:02:04,866 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:04,866 - streamparse.stdout - INFO - test
+2016-08-03 15:02:04,866 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:04,867 - streamparse.stdout - INFO - test
+2016-08-03 15:02:04,867 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:04,867 - streamparse.stdout - INFO - test
+2016-08-03 15:02:04,867 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:04,868 - streamparse.stdout - INFO - test
+2016-08-03 15:02:04,868 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:04,868 - streamparse.stdout - INFO - test
+2016-08-03 15:02:04,868 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:04,868 - streamparse.stdout - INFO - test
+2016-08-03 15:02:04,869 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:04,869 - streamparse.stdout - INFO - test
+2016-08-03 15:02:04,869 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:04,869 - streamparse.stdout - INFO - test
+2016-08-03 15:02:04,869 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:04,870 - streamparse.stdout - INFO - test
+2016-08-03 15:02:04,870 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:04,870 - streamparse.stdout - INFO - test
+2016-08-03 15:02:04,870 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:04,880 - streamparse.stdout - INFO - test
+2016-08-03 15:02:04,880 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:04,880 - streamparse.stdout - INFO - test
+2016-08-03 15:02:04,880 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:04,880 - streamparse.stdout - INFO - test
+2016-08-03 15:02:04,881 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:04,881 - streamparse.stdout - INFO - test
+2016-08-03 15:02:04,881 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:04,881 - streamparse.stdout - INFO - test
+2016-08-03 15:02:04,881 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:04,882 - streamparse.stdout - INFO - test
+2016-08-03 15:02:04,882 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:04,882 - streamparse.stdout - INFO - test
+2016-08-03 15:02:04,882 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:04,883 - streamparse.stdout - INFO - test
+2016-08-03 15:02:04,883 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:04,883 - streamparse.stdout - INFO - test
+2016-08-03 15:02:04,883 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:04,884 - streamparse.stdout - INFO - test
+2016-08-03 15:02:04,884 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:04,884 - streamparse.stdout - INFO - test
+2016-08-03 15:02:04,884 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:04,885 - streamparse.stdout - INFO - test
+2016-08-03 15:02:04,885 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:04,885 - streamparse.stdout - INFO - test
+2016-08-03 15:02:04,885 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:04,886 - streamparse.stdout - INFO - test
+2016-08-03 15:02:04,886 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:04,886 - streamparse.stdout - INFO - test
+2016-08-03 15:02:04,886 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:04,887 - streamparse.stdout - INFO - test
+2016-08-03 15:02:04,887 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:04,897 - streamparse.stdout - INFO - test
+2016-08-03 15:02:04,897 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:04,897 - streamparse.stdout - INFO - test
+2016-08-03 15:02:04,898 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:04,898 - streamparse.stdout - INFO - test
+2016-08-03 15:02:04,898 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:04,898 - streamparse.stdout - INFO - test
+2016-08-03 15:02:04,898 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:05,782 - streamparse.stdout - INFO - test
+2016-08-03 15:02:05,783 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:05,785 - streamparse.stdout - INFO - test
+2016-08-03 15:02:05,785 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:05,785 - streamparse.stdout - INFO - test
+2016-08-03 15:02:05,785 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:05,795 - streamparse.stdout - INFO - test
+2016-08-03 15:02:05,795 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:05,797 - streamparse.stdout - INFO - test
+2016-08-03 15:02:05,797 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:05,799 - streamparse.stdout - INFO - test
+2016-08-03 15:02:05,799 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:05,800 - streamparse.stdout - INFO - test
+2016-08-03 15:02:05,800 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:05,801 - streamparse.stdout - INFO - test
+2016-08-03 15:02:05,802 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:05,803 - streamparse.stdout - INFO - test
+2016-08-03 15:02:05,803 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:05,804 - streamparse.stdout - INFO - test
+2016-08-03 15:02:05,805 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:05,805 - streamparse.stdout - INFO - test
+2016-08-03 15:02:05,805 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:05,806 - streamparse.stdout - INFO - test
+2016-08-03 15:02:05,806 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:05,807 - streamparse.stdout - INFO - test
+2016-08-03 15:02:05,807 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:05,809 - streamparse.stdout - INFO - test
+2016-08-03 15:02:05,809 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:05,811 - streamparse.stdout - INFO - test
+2016-08-03 15:02:05,811 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:05,811 - streamparse.stdout - INFO - test
+2016-08-03 15:02:05,812 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:05,812 - streamparse.stdout - INFO - test
+2016-08-03 15:02:05,812 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:05,814 - streamparse.stdout - INFO - test
+2016-08-03 15:02:05,814 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:05,824 - streamparse.stdout - INFO - test
+2016-08-03 15:02:05,824 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:05,825 - streamparse.stdout - INFO - test
+2016-08-03 15:02:05,825 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:05,825 - streamparse.stdout - INFO - test
+2016-08-03 15:02:05,825 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:05,826 - streamparse.stdout - INFO - test
+2016-08-03 15:02:05,826 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:05,829 - streamparse.stdout - INFO - test
+2016-08-03 15:02:05,829 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:05,832 - streamparse.stdout - INFO - test
+2016-08-03 15:02:05,832 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:05,833 - streamparse.stdout - INFO - test
+2016-08-03 15:02:05,833 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:05,835 - streamparse.stdout - INFO - test
+2016-08-03 15:02:05,835 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:05,838 - streamparse.stdout - INFO - test
+2016-08-03 15:02:05,838 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:05,838 - streamparse.stdout - INFO - test
+2016-08-03 15:02:05,838 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:05,839 - streamparse.stdout - INFO - test
+2016-08-03 15:02:05,839 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:05,839 - streamparse.stdout - INFO - test
+2016-08-03 15:02:05,839 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:05,840 - streamparse.stdout - INFO - test
+2016-08-03 15:02:05,840 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:05,842 - streamparse.stdout - INFO - test
+2016-08-03 15:02:05,842 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:05,842 - streamparse.stdout - INFO - test
+2016-08-03 15:02:05,843 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:05,843 - streamparse.stdout - INFO - test
+2016-08-03 15:02:05,855 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:05,855 - streamparse.stdout - INFO - test
+2016-08-03 15:02:05,855 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:05,856 - streamparse.stdout - INFO - test
+2016-08-03 15:02:05,856 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:05,856 - streamparse.stdout - INFO - test
+2016-08-03 15:02:05,856 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:05,856 - streamparse.stdout - INFO - test
+2016-08-03 15:02:05,857 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:05,857 - streamparse.stdout - INFO - test
+2016-08-03 15:02:05,857 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:05,857 - streamparse.stdout - INFO - test
+2016-08-03 15:02:05,857 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:05,858 - streamparse.stdout - INFO - test
+2016-08-03 15:02:05,858 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:05,868 - streamparse.stdout - INFO - test
+2016-08-03 15:02:05,868 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:05,868 - streamparse.stdout - INFO - test
+2016-08-03 15:02:05,869 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:05,869 - streamparse.stdout - INFO - test
+2016-08-03 15:02:05,869 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:05,869 - streamparse.stdout - INFO - test
+2016-08-03 15:02:05,870 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:05,870 - streamparse.stdout - INFO - test
+2016-08-03 15:02:05,870 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:05,871 - streamparse.stdout - INFO - test
+2016-08-03 15:02:05,871 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:05,871 - streamparse.stdout - INFO - test
+2016-08-03 15:02:05,871 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:05,871 - streamparse.stdout - INFO - test
+2016-08-03 15:02:05,872 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:05,872 - streamparse.stdout - INFO - test
+2016-08-03 15:02:05,872 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:05,873 - streamparse.stdout - INFO - test
+2016-08-03 15:02:05,873 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:05,884 - streamparse.stdout - INFO - test
+2016-08-03 15:02:05,884 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:06,810 - streamparse.stdout - INFO - test
+2016-08-03 15:02:06,811 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:06,811 - streamparse.stdout - INFO - test
+2016-08-03 15:02:06,811 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:06,811 - streamparse.stdout - INFO - test
+2016-08-03 15:02:06,812 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:06,815 - streamparse.stdout - INFO - test
+2016-08-03 15:02:06,815 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:06,816 - streamparse.stdout - INFO - test
+2016-08-03 15:02:06,816 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:06,820 - streamparse.stdout - INFO - test
+2016-08-03 15:02:06,821 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:06,826 - streamparse.stdout - INFO - test
+2016-08-03 15:02:06,826 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:06,827 - streamparse.stdout - INFO - test
+2016-08-03 15:02:06,827 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:06,827 - streamparse.stdout - INFO - test
+2016-08-03 15:02:06,827 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:06,829 - streamparse.stdout - INFO - test
+2016-08-03 15:02:06,829 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:06,833 - streamparse.stdout - INFO - test
+2016-08-03 15:02:06,834 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:06,836 - streamparse.stdout - INFO - test
+2016-08-03 15:02:06,836 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:06,837 - streamparse.stdout - INFO - test
+2016-08-03 15:02:06,837 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:06,837 - streamparse.stdout - INFO - test
+2016-08-03 15:02:06,837 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:06,838 - streamparse.stdout - INFO - test
+2016-08-03 15:02:06,838 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:06,838 - streamparse.stdout - INFO - test
+2016-08-03 15:02:06,838 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:06,838 - streamparse.stdout - INFO - test
+2016-08-03 15:02:06,839 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:06,841 - streamparse.stdout - INFO - test
+2016-08-03 15:02:06,841 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:06,842 - streamparse.stdout - INFO - test
+2016-08-03 15:02:06,842 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:06,842 - streamparse.stdout - INFO - test
+2016-08-03 15:02:06,842 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:06,843 - streamparse.stdout - INFO - test
+2016-08-03 15:02:06,843 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:06,843 - streamparse.stdout - INFO - test
+2016-08-03 15:02:06,843 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:06,857 - streamparse.stdout - INFO - test
+2016-08-03 15:02:06,858 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:06,858 - streamparse.stdout - INFO - test
+2016-08-03 15:02:06,858 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:06,868 - streamparse.stdout - INFO - test
+2016-08-03 15:02:06,868 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:06,869 - streamparse.stdout - INFO - test
+2016-08-03 15:02:06,869 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:06,869 - streamparse.stdout - INFO - test
+2016-08-03 15:02:06,869 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:06,869 - streamparse.stdout - INFO - test
+2016-08-03 15:02:06,870 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:06,870 - streamparse.stdout - INFO - test
+2016-08-03 15:02:06,870 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:06,874 - streamparse.stdout - INFO - test
+2016-08-03 15:02:06,874 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:06,874 - streamparse.stdout - INFO - test
+2016-08-03 15:02:06,874 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:06,875 - streamparse.stdout - INFO - test
+2016-08-03 15:02:06,875 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:06,875 - streamparse.stdout - INFO - test
+2016-08-03 15:02:06,875 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:06,876 - streamparse.stdout - INFO - test
+2016-08-03 15:02:06,876 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:06,876 - streamparse.stdout - INFO - test
+2016-08-03 15:02:06,876 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:06,877 - streamparse.stdout - INFO - test
+2016-08-03 15:02:06,877 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:06,877 - streamparse.stdout - INFO - test
+2016-08-03 15:02:06,877 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:06,878 - streamparse.stdout - INFO - test
+2016-08-03 15:02:06,878 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:06,889 - streamparse.stdout - INFO - test
+2016-08-03 15:02:06,889 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:06,889 - streamparse.stdout - INFO - test
+2016-08-03 15:02:06,889 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:06,890 - streamparse.stdout - INFO - test
+2016-08-03 15:02:06,890 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:06,890 - streamparse.stdout - INFO - test
+2016-08-03 15:02:06,890 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:06,891 - streamparse.stdout - INFO - test
+2016-08-03 15:02:06,891 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:06,891 - streamparse.stdout - INFO - test
+2016-08-03 15:02:06,891 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:06,892 - streamparse.stdout - INFO - test
+2016-08-03 15:02:06,892 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:06,892 - streamparse.stdout - INFO - test
+2016-08-03 15:02:06,892 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:06,893 - streamparse.stdout - INFO - test
+2016-08-03 15:02:06,893 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:06,893 - streamparse.stdout - INFO - test
+2016-08-03 15:02:06,893 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:06,894 - streamparse.stdout - INFO - test
+2016-08-03 15:02:06,894 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:06,894 - streamparse.stdout - INFO - test
+2016-08-03 15:02:06,895 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:06,896 - streamparse.stdout - INFO - test
+2016-08-03 15:02:06,896 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:06,905 - streamparse.stdout - INFO - test
+2016-08-03 15:02:06,905 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:07,815 - streamparse.stdout - INFO - test
+2016-08-03 15:02:07,815 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:07,816 - streamparse.stdout - INFO - test
+2016-08-03 15:02:07,816 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:07,818 - streamparse.stdout - INFO - test
+2016-08-03 15:02:07,818 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:07,819 - streamparse.stdout - INFO - test
+2016-08-03 15:02:07,819 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:07,820 - streamparse.stdout - INFO - test
+2016-08-03 15:02:07,820 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:07,821 - streamparse.stdout - INFO - test
+2016-08-03 15:02:07,821 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:07,821 - streamparse.stdout - INFO - test
+2016-08-03 15:02:07,822 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:07,822 - streamparse.stdout - INFO - test
+2016-08-03 15:02:07,822 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:07,825 - streamparse.stdout - INFO - test
+2016-08-03 15:02:07,825 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:07,826 - streamparse.stdout - INFO - test
+2016-08-03 15:02:07,826 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:07,826 - streamparse.stdout - INFO - test
+2016-08-03 15:02:07,826 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:07,827 - streamparse.stdout - INFO - test
+2016-08-03 15:02:07,827 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:07,827 - streamparse.stdout - INFO - test
+2016-08-03 15:02:07,828 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:07,843 - streamparse.stdout - INFO - test
+2016-08-03 15:02:07,843 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:07,844 - streamparse.stdout - INFO - test
+2016-08-03 15:02:07,844 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:07,844 - streamparse.stdout - INFO - test
+2016-08-03 15:02:07,844 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:07,854 - streamparse.stdout - INFO - test
+2016-08-03 15:02:07,856 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:07,856 - streamparse.stdout - INFO - test
+2016-08-03 15:02:07,856 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:07,856 - streamparse.stdout - INFO - test
+2016-08-03 15:02:07,857 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:07,857 - streamparse.stdout - INFO - test
+2016-08-03 15:02:07,857 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:07,857 - streamparse.stdout - INFO - test
+2016-08-03 15:02:07,857 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:07,860 - streamparse.stdout - INFO - test
+2016-08-03 15:02:07,860 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:07,871 - streamparse.stdout - INFO - test
+2016-08-03 15:02:07,871 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:07,871 - streamparse.stdout - INFO - test
+2016-08-03 15:02:07,871 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:07,872 - streamparse.stdout - INFO - test
+2016-08-03 15:02:07,872 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:07,872 - streamparse.stdout - INFO - test
+2016-08-03 15:02:07,872 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:07,872 - streamparse.stdout - INFO - test
+2016-08-03 15:02:07,881 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:07,882 - streamparse.stdout - INFO - test
+2016-08-03 15:02:07,882 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:07,883 - streamparse.stdout - INFO - test
+2016-08-03 15:02:07,883 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:07,883 - streamparse.stdout - INFO - test
+2016-08-03 15:02:07,884 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:07,884 - streamparse.stdout - INFO - test
+2016-08-03 15:02:07,884 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:07,884 - streamparse.stdout - INFO - test
+2016-08-03 15:02:07,884 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:07,885 - streamparse.stdout - INFO - test
+2016-08-03 15:02:07,885 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:07,885 - streamparse.stdout - INFO - test
+2016-08-03 15:02:07,885 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:07,885 - streamparse.stdout - INFO - test
+2016-08-03 15:02:07,886 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:07,886 - streamparse.stdout - INFO - test
+2016-08-03 15:02:07,886 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:07,887 - streamparse.stdout - INFO - test
+2016-08-03 15:02:07,887 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:07,887 - streamparse.stdout - INFO - test
+2016-08-03 15:02:07,887 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:07,888 - streamparse.stdout - INFO - test
+2016-08-03 15:02:07,888 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:07,888 - streamparse.stdout - INFO - test
+2016-08-03 15:02:07,888 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:07,897 - streamparse.stdout - INFO - test
+2016-08-03 15:02:07,897 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:07,897 - streamparse.stdout - INFO - test
+2016-08-03 15:02:07,898 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:07,898 - streamparse.stdout - INFO - test
+2016-08-03 15:02:07,898 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:07,898 - streamparse.stdout - INFO - test
+2016-08-03 15:02:07,898 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:07,899 - streamparse.stdout - INFO - test
+2016-08-03 15:02:07,899 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:07,899 - streamparse.stdout - INFO - test
+2016-08-03 15:02:07,900 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:07,900 - streamparse.stdout - INFO - test
+2016-08-03 15:02:07,900 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:07,900 - streamparse.stdout - INFO - test
+2016-08-03 15:02:07,900 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:07,901 - streamparse.stdout - INFO - test
+2016-08-03 15:02:07,901 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:07,901 - streamparse.stdout - INFO - test
+2016-08-03 15:02:07,902 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:07,902 - streamparse.stdout - INFO - test
+2016-08-03 15:02:07,902 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:07,902 - streamparse.stdout - INFO - test
+2016-08-03 15:02:07,902 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:08,795 - streamparse.stdout - INFO - test
+2016-08-03 15:02:08,795 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:08,795 - streamparse.stdout - INFO - test
+2016-08-03 15:02:08,796 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:08,804 - streamparse.stdout - INFO - test
+2016-08-03 15:02:08,804 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:08,814 - streamparse.stdout - INFO - test
+2016-08-03 15:02:08,814 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:08,814 - streamparse.stdout - INFO - test
+2016-08-03 15:02:08,814 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:08,815 - streamparse.stdout - INFO - test
+2016-08-03 15:02:08,815 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:08,820 - streamparse.stdout - INFO - test
+2016-08-03 15:02:08,820 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:08,821 - streamparse.stdout - INFO - test
+2016-08-03 15:02:08,821 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:08,821 - streamparse.stdout - INFO - test
+2016-08-03 15:02:08,821 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:08,822 - streamparse.stdout - INFO - test
+2016-08-03 15:02:08,822 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:08,823 - streamparse.stdout - INFO - test
+2016-08-03 15:02:08,823 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:08,823 - streamparse.stdout - INFO - test
+2016-08-03 15:02:08,823 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:08,825 - streamparse.stdout - INFO - test
+2016-08-03 15:02:08,825 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:08,826 - streamparse.stdout - INFO - test
+2016-08-03 15:02:08,826 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:08,827 - streamparse.stdout - INFO - test
+2016-08-03 15:02:08,827 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:08,827 - streamparse.stdout - INFO - test
+2016-08-03 15:02:08,827 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:08,828 - streamparse.stdout - INFO - test
+2016-08-03 15:02:08,829 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:08,830 - streamparse.stdout - INFO - test
+2016-08-03 15:02:08,830 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:08,832 - streamparse.stdout - INFO - test
+2016-08-03 15:02:08,832 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:08,834 - streamparse.stdout - INFO - test
+2016-08-03 15:02:08,834 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:08,834 - streamparse.stdout - INFO - test
+2016-08-03 15:02:08,834 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:08,835 - streamparse.stdout - INFO - test
+2016-08-03 15:02:08,835 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:08,835 - streamparse.stdout - INFO - test
+2016-08-03 15:02:08,835 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:08,836 - streamparse.stdout - INFO - test
+2016-08-03 15:02:08,836 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:08,836 - streamparse.stdout - INFO - test
+2016-08-03 15:02:08,836 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:08,840 - streamparse.stdout - INFO - test
+2016-08-03 15:02:08,840 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:08,840 - streamparse.stdout - INFO - test
+2016-08-03 15:02:08,840 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:08,841 - streamparse.stdout - INFO - test
+2016-08-03 15:02:08,841 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:08,841 - streamparse.stdout - INFO - test
+2016-08-03 15:02:08,841 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:08,842 - streamparse.stdout - INFO - test
+2016-08-03 15:02:08,842 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:08,843 - streamparse.stdout - INFO - test
+2016-08-03 15:02:08,843 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:08,845 - streamparse.stdout - INFO - test
+2016-08-03 15:02:08,845 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:08,846 - streamparse.stdout - INFO - test
+2016-08-03 15:02:08,846 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:08,847 - streamparse.stdout - INFO - test
+2016-08-03 15:02:08,847 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:08,848 - streamparse.stdout - INFO - test
+2016-08-03 15:02:08,848 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:08,848 - streamparse.stdout - INFO - test
+2016-08-03 15:02:08,848 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:08,849 - streamparse.stdout - INFO - test
+2016-08-03 15:02:08,849 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:08,850 - streamparse.stdout - INFO - test
+2016-08-03 15:02:08,850 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:08,850 - streamparse.stdout - INFO - test
+2016-08-03 15:02:08,850 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:08,852 - streamparse.stdout - INFO - test
+2016-08-03 15:02:08,852 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:08,852 - streamparse.stdout - INFO - test
+2016-08-03 15:02:08,852 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:08,853 - streamparse.stdout - INFO - test
+2016-08-03 15:02:08,853 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:08,853 - streamparse.stdout - INFO - test
+2016-08-03 15:02:08,853 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:08,854 - streamparse.stdout - INFO - test
+2016-08-03 15:02:08,854 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:08,860 - streamparse.stdout - INFO - test
+2016-08-03 15:02:08,860 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:08,865 - streamparse.stdout - INFO - test
+2016-08-03 15:02:08,865 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:08,867 - streamparse.stdout - INFO - test
+2016-08-03 15:02:08,867 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:08,871 - streamparse.stdout - INFO - test
+2016-08-03 15:02:08,871 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:08,878 - streamparse.stdout - INFO - test
+2016-08-03 15:02:08,878 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:08,879 - streamparse.stdout - INFO - test
+2016-08-03 15:02:08,879 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:08,888 - streamparse.stdout - INFO - test
+2016-08-03 15:02:08,888 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:08,890 - streamparse.stdout - INFO - test
+2016-08-03 15:02:08,890 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:09,797 - streamparse.stdout - INFO - test
+2016-08-03 15:02:09,797 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:09,797 - streamparse.stdout - INFO - test
+2016-08-03 15:02:09,797 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:09,798 - streamparse.stdout - INFO - test
+2016-08-03 15:02:09,798 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:09,799 - streamparse.stdout - INFO - test
+2016-08-03 15:02:09,799 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:09,799 - streamparse.stdout - INFO - test
+2016-08-03 15:02:09,799 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:09,809 - streamparse.stdout - INFO - test
+2016-08-03 15:02:09,809 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:09,811 - streamparse.stdout - INFO - test
+2016-08-03 15:02:09,812 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:09,812 - streamparse.stdout - INFO - test
+2016-08-03 15:02:09,812 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:09,812 - streamparse.stdout - INFO - test
+2016-08-03 15:02:09,812 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:09,816 - streamparse.stdout - INFO - test
+2016-08-03 15:02:09,816 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:09,819 - streamparse.stdout - INFO - test
+2016-08-03 15:02:09,819 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:09,822 - streamparse.stdout - INFO - test
+2016-08-03 15:02:09,822 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:09,825 - streamparse.stdout - INFO - test
+2016-08-03 15:02:09,825 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:09,827 - streamparse.stdout - INFO - test
+2016-08-03 15:02:09,827 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:09,828 - streamparse.stdout - INFO - test
+2016-08-03 15:02:09,828 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:09,829 - streamparse.stdout - INFO - test
+2016-08-03 15:02:09,829 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:09,829 - streamparse.stdout - INFO - test
+2016-08-03 15:02:09,830 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:09,832 - streamparse.stdout - INFO - test
+2016-08-03 15:02:09,832 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:09,833 - streamparse.stdout - INFO - test
+2016-08-03 15:02:09,833 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:09,833 - streamparse.stdout - INFO - test
+2016-08-03 15:02:09,833 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:09,834 - streamparse.stdout - INFO - test
+2016-08-03 15:02:09,834 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:09,834 - streamparse.stdout - INFO - test
+2016-08-03 15:02:09,835 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:09,835 - streamparse.stdout - INFO - test
+2016-08-03 15:02:09,835 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:09,835 - streamparse.stdout - INFO - test
+2016-08-03 15:02:09,836 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:09,836 - streamparse.stdout - INFO - test
+2016-08-03 15:02:09,836 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:09,837 - streamparse.stdout - INFO - test
+2016-08-03 15:02:09,837 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:09,838 - streamparse.stdout - INFO - test
+2016-08-03 15:02:09,838 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:09,841 - streamparse.stdout - INFO - test
+2016-08-03 15:02:09,841 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:09,843 - streamparse.stdout - INFO - test
+2016-08-03 15:02:09,843 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:09,844 - streamparse.stdout - INFO - test
+2016-08-03 15:02:09,844 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:09,851 - streamparse.stdout - INFO - test
+2016-08-03 15:02:09,851 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:09,855 - streamparse.stdout - INFO - test
+2016-08-03 15:02:09,856 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:09,856 - streamparse.stdout - INFO - test
+2016-08-03 15:02:09,856 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:09,856 - streamparse.stdout - INFO - test
+2016-08-03 15:02:09,856 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:09,857 - streamparse.stdout - INFO - test
+2016-08-03 15:02:09,857 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:09,857 - streamparse.stdout - INFO - test
+2016-08-03 15:02:09,858 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:09,858 - streamparse.stdout - INFO - test
+2016-08-03 15:02:09,858 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:09,863 - streamparse.stdout - INFO - test
+2016-08-03 15:02:09,863 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:09,864 - streamparse.stdout - INFO - test
+2016-08-03 15:02:09,864 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:09,872 - streamparse.stdout - INFO - test
+2016-08-03 15:02:09,872 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:09,874 - streamparse.stdout - INFO - test
+2016-08-03 15:02:09,874 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:09,877 - streamparse.stdout - INFO - test
+2016-08-03 15:02:09,877 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:09,878 - streamparse.stdout - INFO - test
+2016-08-03 15:02:09,878 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:09,879 - streamparse.stdout - INFO - test
+2016-08-03 15:02:09,879 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:09,879 - streamparse.stdout - INFO - test
+2016-08-03 15:02:09,879 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:09,884 - streamparse.stdout - INFO - test
+2016-08-03 15:02:09,884 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:09,889 - streamparse.stdout - INFO - test
+2016-08-03 15:02:09,889 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:09,893 - streamparse.stdout - INFO - test
+2016-08-03 15:02:09,893 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:09,897 - streamparse.stdout - INFO - test
+2016-08-03 15:02:09,897 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:09,897 - streamparse.stdout - INFO - test
+2016-08-03 15:02:09,898 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:09,898 - streamparse.stdout - INFO - test
+2016-08-03 15:02:09,898 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:09,908 - streamparse.stdout - INFO - test
+2016-08-03 15:02:09,908 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:10,791 - streamparse.stdout - INFO - test
+2016-08-03 15:02:10,791 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:10,792 - streamparse.stdout - INFO - test
+2016-08-03 15:02:10,792 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:10,792 - streamparse.stdout - INFO - test
+2016-08-03 15:02:10,792 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:10,802 - streamparse.stdout - INFO - test
+2016-08-03 15:02:10,802 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:10,802 - streamparse.stdout - INFO - test
+2016-08-03 15:02:10,802 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:10,802 - streamparse.stdout - INFO - test
+2016-08-03 15:02:10,803 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:10,803 - streamparse.stdout - INFO - test
+2016-08-03 15:02:10,803 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:10,803 - streamparse.stdout - INFO - test
+2016-08-03 15:02:10,804 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:10,804 - streamparse.stdout - INFO - test
+2016-08-03 15:02:10,804 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:10,804 - streamparse.stdout - INFO - test
+2016-08-03 15:02:10,805 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:10,805 - streamparse.stdout - INFO - test
+2016-08-03 15:02:10,805 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:10,805 - streamparse.stdout - INFO - test
+2016-08-03 15:02:10,805 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:10,806 - streamparse.stdout - INFO - test
+2016-08-03 15:02:10,806 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:10,806 - streamparse.stdout - INFO - test
+2016-08-03 15:02:10,807 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:10,809 - streamparse.stdout - INFO - test
+2016-08-03 15:02:10,809 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:10,813 - streamparse.stdout - INFO - test
+2016-08-03 15:02:10,814 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:10,815 - streamparse.stdout - INFO - test
+2016-08-03 15:02:10,815 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:10,816 - streamparse.stdout - INFO - test
+2016-08-03 15:02:10,816 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:10,816 - streamparse.stdout - INFO - test
+2016-08-03 15:02:10,816 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:10,822 - streamparse.stdout - INFO - test
+2016-08-03 15:02:10,822 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:10,826 - streamparse.stdout - INFO - test
+2016-08-03 15:02:10,826 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:10,826 - streamparse.stdout - INFO - test
+2016-08-03 15:02:10,826 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:10,827 - streamparse.stdout - INFO - test
+2016-08-03 15:02:10,827 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:10,829 - streamparse.stdout - INFO - test
+2016-08-03 15:02:10,829 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:10,832 - streamparse.stdout - INFO - test
+2016-08-03 15:02:10,832 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:10,834 - streamparse.stdout - INFO - test
+2016-08-03 15:02:10,834 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:10,834 - streamparse.stdout - INFO - test
+2016-08-03 15:02:10,834 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:10,840 - streamparse.stdout - INFO - test
+2016-08-03 15:02:10,840 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:10,840 - streamparse.stdout - INFO - test
+2016-08-03 15:02:10,841 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:10,841 - streamparse.stdout - INFO - test
+2016-08-03 15:02:10,841 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:10,844 - streamparse.stdout - INFO - test
+2016-08-03 15:02:10,844 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:10,846 - streamparse.stdout - INFO - test
+2016-08-03 15:02:10,846 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:10,849 - streamparse.stdout - INFO - test
+2016-08-03 15:02:10,849 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:10,851 - streamparse.stdout - INFO - test
+2016-08-03 15:02:10,851 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:10,852 - streamparse.stdout - INFO - test
+2016-08-03 15:02:10,852 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:10,853 - streamparse.stdout - INFO - test
+2016-08-03 15:02:10,853 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:10,853 - streamparse.stdout - INFO - test
+2016-08-03 15:02:10,853 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:10,856 - streamparse.stdout - INFO - test
+2016-08-03 15:02:10,856 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:10,857 - streamparse.stdout - INFO - test
+2016-08-03 15:02:10,857 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:10,859 - streamparse.stdout - INFO - test
+2016-08-03 15:02:10,859 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:10,870 - streamparse.stdout - INFO - test
+2016-08-03 15:02:10,870 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:10,870 - streamparse.stdout - INFO - test
+2016-08-03 15:02:10,870 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:10,873 - streamparse.stdout - INFO - test
+2016-08-03 15:02:10,873 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:10,878 - streamparse.stdout - INFO - test
+2016-08-03 15:02:10,878 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:10,878 - streamparse.stdout - INFO - test
+2016-08-03 15:02:10,878 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:10,880 - streamparse.stdout - INFO - test
+2016-08-03 15:02:10,880 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:10,884 - streamparse.stdout - INFO - test
+2016-08-03 15:02:10,884 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:10,884 - streamparse.stdout - INFO - test
+2016-08-03 15:02:10,885 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:10,887 - streamparse.stdout - INFO - test
+2016-08-03 15:02:10,887 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:10,887 - streamparse.stdout - INFO - test
+2016-08-03 15:02:10,888 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:10,895 - streamparse.stdout - INFO - test
+2016-08-03 15:02:10,895 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:10,895 - streamparse.stdout - INFO - test
+2016-08-03 15:02:10,896 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:11,804 - streamparse.stdout - INFO - test
+2016-08-03 15:02:11,804 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:11,804 - streamparse.stdout - INFO - test
+2016-08-03 15:02:11,804 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:11,806 - streamparse.stdout - INFO - test
+2016-08-03 15:02:11,807 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:11,808 - streamparse.stdout - INFO - test
+2016-08-03 15:02:11,808 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:11,808 - streamparse.stdout - INFO - test
+2016-08-03 15:02:11,809 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:11,809 - streamparse.stdout - INFO - test
+2016-08-03 15:02:11,809 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:11,816 - streamparse.stdout - INFO - test
+2016-08-03 15:02:11,816 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:11,817 - streamparse.stdout - INFO - test
+2016-08-03 15:02:11,817 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:11,817 - streamparse.stdout - INFO - test
+2016-08-03 15:02:11,817 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:11,818 - streamparse.stdout - INFO - test
+2016-08-03 15:02:11,818 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:11,818 - streamparse.stdout - INFO - test
+2016-08-03 15:02:11,818 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:11,819 - streamparse.stdout - INFO - test
+2016-08-03 15:02:11,819 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:11,819 - streamparse.stdout - INFO - test
+2016-08-03 15:02:11,819 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:11,820 - streamparse.stdout - INFO - test
+2016-08-03 15:02:11,820 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:11,822 - streamparse.stdout - INFO - test
+2016-08-03 15:02:11,822 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:11,825 - streamparse.stdout - INFO - test
+2016-08-03 15:02:11,825 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:11,825 - streamparse.stdout - INFO - test
+2016-08-03 15:02:11,825 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:11,826 - streamparse.stdout - INFO - test
+2016-08-03 15:02:11,826 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:11,827 - streamparse.stdout - INFO - test
+2016-08-03 15:02:11,827 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:11,827 - streamparse.stdout - INFO - test
+2016-08-03 15:02:11,827 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:11,828 - streamparse.stdout - INFO - test
+2016-08-03 15:02:11,828 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:11,828 - streamparse.stdout - INFO - test
+2016-08-03 15:02:11,828 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:11,828 - streamparse.stdout - INFO - test
+2016-08-03 15:02:11,829 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:11,829 - streamparse.stdout - INFO - test
+2016-08-03 15:02:11,830 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:11,830 - streamparse.stdout - INFO - test
+2016-08-03 15:02:11,830 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:11,831 - streamparse.stdout - INFO - test
+2016-08-03 15:02:11,831 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:11,831 - streamparse.stdout - INFO - test
+2016-08-03 15:02:11,831 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:11,832 - streamparse.stdout - INFO - test
+2016-08-03 15:02:11,832 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:11,833 - streamparse.stdout - INFO - test
+2016-08-03 15:02:11,833 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:11,834 - streamparse.stdout - INFO - test
+2016-08-03 15:02:11,834 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:11,843 - streamparse.stdout - INFO - test
+2016-08-03 15:02:11,843 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:11,843 - streamparse.stdout - INFO - test
+2016-08-03 15:02:11,843 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:11,844 - streamparse.stdout - INFO - test
+2016-08-03 15:02:11,844 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:11,844 - streamparse.stdout - INFO - test
+2016-08-03 15:02:11,844 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:11,844 - streamparse.stdout - INFO - test
+2016-08-03 15:02:11,844 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:11,845 - streamparse.stdout - INFO - test
+2016-08-03 15:02:11,845 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:11,845 - streamparse.stdout - INFO - test
+2016-08-03 15:02:11,845 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:11,846 - streamparse.stdout - INFO - test
+2016-08-03 15:02:11,846 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:11,849 - streamparse.stdout - INFO - test
+2016-08-03 15:02:11,849 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:11,853 - streamparse.stdout - INFO - test
+2016-08-03 15:02:11,853 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:11,853 - streamparse.stdout - INFO - test
+2016-08-03 15:02:11,853 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:11,859 - streamparse.stdout - INFO - test
+2016-08-03 15:02:11,859 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:11,859 - streamparse.stdout - INFO - test
+2016-08-03 15:02:11,859 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:11,860 - streamparse.stdout - INFO - test
+2016-08-03 15:02:11,860 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:11,860 - streamparse.stdout - INFO - test
+2016-08-03 15:02:11,860 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:11,861 - streamparse.stdout - INFO - test
+2016-08-03 15:02:11,861 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:11,861 - streamparse.stdout - INFO - test
+2016-08-03 15:02:11,861 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:11,866 - streamparse.stdout - INFO - test
+2016-08-03 15:02:11,866 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:11,867 - streamparse.stdout - INFO - test
+2016-08-03 15:02:11,867 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:11,870 - streamparse.stdout - INFO - test
+2016-08-03 15:02:11,870 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:11,876 - streamparse.stdout - INFO - test
+2016-08-03 15:02:11,876 - streamparse.stdout - INFO - fail 1
+2016-08-03 15:02:11,885 - streamparse.stdout - INFO - test
+2016-08-03 15:02:11,886 - streamparse.stdout - INFO - fail 1

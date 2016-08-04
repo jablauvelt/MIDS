@@ -1,0 +1,9 @@
+2016-08-03 19:40:22,723 - streamparse.storm.component - ERROR - Exception in WordCounter.run()
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/site-packages/streamparse/storm/component.py", line 489, in run
+    self._run()
+  File "/usr/lib/python2.7/site-packages/streamparse/storm/bolt.py", line 219, in _run
+    self.process(tup)
+  File "bolts/wordcount.py", line 33, in process
+    self.cur.execute("INSERT INTO Tweetwordcount (word, count) VALUES (%s, %d)", (word, self.counts[word]))
+ValueError: unsupported format character 'd' (0x64) at index 54
